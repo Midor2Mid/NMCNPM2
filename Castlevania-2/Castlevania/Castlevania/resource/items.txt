@@ -1,0 +1,14 @@
+resource/image/item/0.png
+resource/image/item/1.png
+resource/image/item/2.png
+resource/image/item/3.png
+resource/image/item/4.png
+resource/image/item/5.png
+resource/image/item/6.png
+resource/image/item/7.png
+resource/image/item/8.png
+resource/image/item/9.png
+resource/image/item/10.png
+resource/image/item/11.png
+resource/image/item/12.png
+resource/image/item/13.png

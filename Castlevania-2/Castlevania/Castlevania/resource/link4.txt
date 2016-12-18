@@ -1,0 +1,2 @@
+resource/image/other/0.png
+resource/image/other/1.png

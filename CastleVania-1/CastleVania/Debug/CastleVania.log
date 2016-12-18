@@ -1,0 +1,316 @@
+﻿  Brick.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Utils.cpp
+  LargeCandle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Tile.cpp
+  QBackground.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\qbackground.cpp(57): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\qbackground.cpp(78): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\qbackground.cpp(51): warning C4101: '_obj' : unreferenced local variable
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\qbackground.cpp(140): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  CTexture.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CSprite.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\csprite.cpp(91): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\csprite.cpp(92): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\csprite.cpp(108): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\csprite.cpp(127): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\csprite.cpp(162): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\csprite.cpp(163): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+  Singleton.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Simon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(16): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(136): warning C4305: '+=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(137): warning C4305: '+=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(159): warning C4305: '-=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(160): warning C4305: '+=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(184): warning C4305: '-=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(185): warning C4305: '-=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(206): warning C4305: '+=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(207): warning C4305: '-=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(332): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(334): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(345): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(353): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(552): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(572): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(592): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(613): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(634): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(711): warning C4805: '==' : unsafe mix of type 'float' and type 'bool' in operation
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(720): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(721): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(723): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(767): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(770): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(793): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(796): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(801): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(804): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(810): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(815): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(821): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(824): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(835): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(838): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(843): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(846): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(852): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(857): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(863): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(866): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\simon.cpp(1314): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\gameobject.cpp(112): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\gameobject.cpp(113): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\gameobject.cpp(155): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  QNode.cpp
+  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Global.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  DynamicObject.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\dynamicobject.cpp(34): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\dynamicobject.cpp(36): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\dynamicobject.cpp(38): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\dynamicobject.cpp(127): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  Zombie.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Weapon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\weapon.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\weapon.cpp(31): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\weapon.cpp(33): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  Water.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  VampireBat.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\vampirebat.cpp(38): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\vampirebat.cpp(40): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\vampirebat.cpp(42): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  ThreeWater.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\threewater.cpp(11): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\threewater.cpp(12): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\threewater.cpp(13): warning C4305: 'argument' : truncation from 'double' to 'float'
+  Generating Code...
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\game.cpp(58): warning C4715: 'CGame::InitWindow' : not all control paths return a value
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\singleton.cpp(187): warning C4715: 'Singleton::getTexture' : not all control paths return a value
+  Compiling...
+  StupidDoor.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\stupiddoor.cpp(23): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\stupiddoor.cpp(25): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\stupiddoor.cpp(65): warning C4018: '>=' : signed/unsigned mismatch
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\stupiddoor.cpp(89): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\stupiddoor.cpp(93): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\stupiddoor.cpp(104): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\stupiddoor.cpp(105): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  Stair.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  SoundManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\soundmanager.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\soundmanager.cpp(182): warning C4018: '<' : signed/unsigned mismatch
+  SceneMenu.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  SceneMain.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  SceneGame.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\scenegame.cpp(196): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\scenegame.cpp(256): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\scenegame.cpp(327): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\scenegame.cpp(353): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\scenegame.cpp(354): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  Scene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  QueenMedusa.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\queenmedusa.cpp(273): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\queenmedusa.cpp(277): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\queenmedusa.cpp(281): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\queenmedusa.cpp(286): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\queenmedusa.cpp(287): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\queenmedusa.cpp(288): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\queenmedusa.cpp(290): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\queenmedusa.cpp(291): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\queenmedusa.cpp(292): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  QGameObject.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\qgameobject.cpp(117): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\qgameobject.cpp(118): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\qgameobject.cpp(118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\qgameobject.cpp(140): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\qgameobject.cpp(143): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+  PhantomBat.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\phantombat.cpp(301): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\phantombat.cpp(307): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\phantombat.cpp(308): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\phantombat.cpp(309): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\phantombat.cpp(311): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\phantombat.cpp(312): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\phantombat.cpp(313): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\phantombat.cpp(316): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\phantombat.cpp(320): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  OpenDoor.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\opendoor.cpp(99): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\opendoor.cpp(102): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\opendoor.cpp(106): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  MovingPlatform.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\movingplatform.cpp(18): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\movingplatform.cpp(19): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  MorningStarSprite.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\morningstarsprite.cpp(71): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+  MorningStar.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\morningstar.cpp(8): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\morningstar.cpp(26): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\morningstar.cpp(29): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\morningstar.cpp(34): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\morningstar.cpp(53): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\morningstar.cpp(54): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+  Medusa.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\medusa.cpp(36): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\medusa.cpp(38): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\medusa.cpp(40): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  MagicalCrystal.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\magicalcrystal.cpp(26): warning C4101: 'normalx' : unreferenced local variable
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\magicalcrystal.cpp(27): warning C4101: 'normaly' : unreferenced local variable
+  LKRect.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(19): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(20): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(21): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(22): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(23): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(24): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(25): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(26): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(38): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(39): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(40): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\lkrect.cpp(41): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+  LittleSnake.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\littlesnake.cpp(23): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\littlesnake.cpp(25): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\littlesnake.cpp(27): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  Lake.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  IntroGame.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(7): warning C4305: '=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(8): warning C4305: '=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(14): warning C4305: '=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(15): warning C4305: '=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(16): warning C4305: '=' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(55): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(56): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(57): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(58): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(59): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(60): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(61): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(62): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(63): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(64): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(65): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\introgame.cpp(66): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  GameScore.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Font.cpp
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\font.cpp(58): warning C4018: '>=' : signed/unsigned mismatch
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\font.cpp(70): warning C4018: '>=' : signed/unsigned mismatch
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\font.cpp(85): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\font.cpp(86): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+  FishMan.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fishman.cpp(142): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fishman.cpp(144): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fishman.cpp(146): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fishman.cpp(168): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fishman.cpp(169): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fishman.cpp(170): warning C4305: 'argument' : truncation from 'double' to 'float'
+  FireDie.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\firedie.cpp(30): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  FireBomb.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\firebomb.cpp(47): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\firebomb.cpp(138): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  FireBall.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  FallingCastle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fallingcastle.cpp(21): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fallingcastle.cpp(22): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fallingcastle.cpp(25): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fallingcastle.cpp(26): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fallingcastle.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fallingcastle.cpp(30): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fallingcastle.cpp(33): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\fallingcastle.cpp(34): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  EndGameScene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  dsutil.cpp
+  DragonSkullCannon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\dragonskullcannon.cpp(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\dragonskullcannon.cpp(48): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\dragonskullcannon.cpp(50): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  Door.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Dagger.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CCamera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\ccamera.cpp(6): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\ccamera.cpp(22): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\ccamera.cpp(33): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\ccamera.cpp(47): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\ccamera.cpp(51): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\ccamera.cpp(53): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\ccamera.cpp(55): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+  CAudio.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CastleGate.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Candle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Boomerang.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  BlackLeopard.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\blackleopard.cpp(12): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\blackleopard.cpp(30): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\blackleopard.cpp(32): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\blackleopard.cpp(34): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+  BlackKnight.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Axe.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\axe.cpp(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\axe.cpp(27): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\axe.cpp(30): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\hoc tap\nmptg\doan_cat\trunk\castlevania-1\castlevania\axe.cpp(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  LINK : E:\Hoc Tap\NMPTG\DOAN_CAT\trunk\CastleVania-1\Debug\CastleVania.exe not found or not built by the last incremental link; performing full link
+  CastleVania.vcxproj -> E:\Hoc Tap\NMPTG\DOAN_CAT\trunk\CastleVania-1\Debug\CastleVania.exe

@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Object">
+      <UniqueIdentifier>{256a7c5c-e68d-451e-8833-63070b2adaa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork">
+      <UniqueIdentifier>{e3d01eed-60c9-4477-9238-c7eb98d0a8b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="game">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="game.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+    <ClCompile Include="winmain.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+    <ClCompile Include="loadfile.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+    <ClCompile Include="zombie.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="lancer.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="armorevil.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="skeleton.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="medusahead.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="fishmonster.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="catdemon.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="bossmedusa.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="gameplay.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+    <ClCompile Include="dragoncannon.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ghost.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="candle.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="largecandle.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="door.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="splashwater.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="healthbar.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="spiketrap.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="flyingblock.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="simon.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="bossbat.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="bat.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="gameobject.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+    <ClCompile Include="mouse.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+    <ClCompile Include="snake.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="fireball.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="font.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="dxinput.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="dxgraphics.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="dxaudio.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="dsutil.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="quadtree.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="sweptaabb.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="introscreen.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+    <ClCompile Include="mainmenu.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="zombie.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="lancer.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="armorevil.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="skeleton.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="medusahead.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="fishmonster.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="catdemon.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="bossbat.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="bossmedusa.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="dragoncannon.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ghost.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="candle.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="largecandle.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="door.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="splashwater.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="healthbar.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="weapon.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="spiketrap.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="flyingblock.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="simon.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="bat.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="snake.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="fireball.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="dsutil.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="dxaudio.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="dxgraphics.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="dxinput.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="dxutil.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="quadtree.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="sweptaabb.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>game</Filter>
+    </ClInclude>
+    <ClInclude Include="gameobject.h">
+      <Filter>game</Filter>
+    </ClInclude>
+    <ClInclude Include="gameplay.h">
+      <Filter>game</Filter>
+    </ClInclude>
+    <ClInclude Include="introscreen.h">
+      <Filter>game</Filter>
+    </ClInclude>
+    <ClInclude Include="loadfile.h">
+      <Filter>game</Filter>
+    </ClInclude>
+    <ClInclude Include="mainmenu.h">
+      <Filter>game</Filter>
+    </ClInclude>
+    <ClInclude Include="mouse.h">
+      <Filter>game</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>game</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

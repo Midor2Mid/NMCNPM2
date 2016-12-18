@@ -1,0 +1,4 @@
+resource/image/weapon/1.png
+resource/image/weapon/2.png
+resource/image/weapon/3.png
+resource/image/weapon/4.png

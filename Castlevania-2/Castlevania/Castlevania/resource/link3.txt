@@ -1,0 +1,12 @@
+resource/map/1.b
+resource/map/1.s
+resource/map/1.o
+resource/map/2.b
+resource/map/2.s
+resource/map/2.o
+resource/map/3.b
+resource/map/3.s
+resource/map/3.o
+resource/map/4.b
+resource/map/4.s
+resource/map/4.o
